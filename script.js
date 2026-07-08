@@ -74,7 +74,7 @@ document.getElementById("email").href = social.email;
 [
 "instagram",
 "github",
-"linkedin",
+"strava",
 "tiktok",
 "youtube"
 
