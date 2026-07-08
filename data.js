@@ -12,11 +12,11 @@ const portfolio = {
 
     name: "Reven Adrian Tan",
 
-    title: "High School Student",
+    title: "part time student, full time sleeping",
 
     school: "Senior High School",
 
-    motto: "Discipline creates freedom.",
+    motto: "let's be mature",
 
     description: `Hello! My name is Reven Adrian Tan, a high school student born on April 7, 2009.
 
