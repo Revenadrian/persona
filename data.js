@@ -12,23 +12,21 @@ const portfolio = {
 
     name: "Reven Adrian Tan",
 
-    title: "High School Student",
+    title: "Part time Student, Full time sleeping",
 
-    school: "Senior High School",
-
-    motto: "Discipline creates freedom.",
+    motto: "lets be mature",
 
     description: `Hello! My name is Reven Adrian Tan, a high school student born on April 7, 2009.
 
-I am a recreational runner and strength athlete with a champion's mindset. I believe success comes from balancing education, cognitive excellence, discipline, and physical performance.
+I am a recreational runner and gymbro with a champion's mindset. I believe success comes from balancing education, cognitive excellence, discipline, and physical performance.
 
 I am passionate about technology, web development, and continuous self-improvement while striving to become the best version of myself every day.`,
 
     // ==========================
-    // IMAGES
+    // Images
     // ==========================
 
-    profileImage: "images/profile.jpg",
+    profileImage: "C:\Users\USER\Pictures\hm",
 
     heroImage: "images/hero.jpg",
 
