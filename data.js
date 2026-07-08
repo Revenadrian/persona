@@ -26,7 +26,8 @@ I am passionate about technology, web development, and continuous self-improveme
     // Images
     // ==========================
 
-    profileImage: "C:\Users\USER\Pictures\hm",
+    profileImage: "
+        "Cuplikan%20layar%202026-07-08%20212353.png",
 
     heroImage: "images/hero.jpg",
 
