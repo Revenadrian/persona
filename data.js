@@ -4,7 +4,7 @@ const portfolio = {
     // WEBSITE
     // ==========================
 
-    pageTitle: "Reven Adrian Tan | Portfolio",
+    pageTitle:
 
     // ==========================
     // HERO
