@@ -4,13 +4,13 @@ const portfolio = {
     // WEBSITE
     // ==========================
 
-    pageTitle:"anjay",
+    pageTitle: "on my own, again | Portfolio",
 
     // ==========================
     // HERO
     // ==========================
 
-    name: "Reven Adrian Tn",
+    name: "Reven Adrian Tan",
 
     title: "High School Student",
 
