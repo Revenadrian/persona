@@ -27,7 +27,7 @@ I am passionate about technology, web development, and continuous self-improveme
     // ==========================
 
     profileImage: "
-        "Cuplikan%20layar%202026-07-08%20212353.png",
+        "Cuplikan layar 2026-07-08 212353.jpg",
 
     heroImage: "images/hero.jpg",
 
