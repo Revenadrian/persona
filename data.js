@@ -4,7 +4,7 @@ const portfolio = {
     // WEBSITE
     // ==========================
 
-    pageTitle: "on my own, again | Portfolio",
+    pageTitle: "Reven Adrian Tan | Portfolio",
 
     // ==========================
     // HERO
@@ -16,7 +16,7 @@ const portfolio = {
 
     school: "Senior High School",
 
-    motto: "let's be mate",
+    motto: "let's be mature",
 
     description: `Hello! My name is Reven Adrian Tan, a high school student born on April 7, 2009.
 
@@ -38,11 +38,10 @@ I am passionate about technology, web development, and continuous self-improveme
 
     social: {
 
-        instagram: "https://instagram.com/USERNAME",
+        instagram: "https://instagram.com/revenadriantan",
 
-        github: "https://github.com/USERNAME",
 
-        linkedin: "https://linkedin.com/in/USERNAME",
+        strava: "https://linkedin.com/in/USERNAME",
 
         tiktok: "https://tiktok.com/@USERNAME",
 
