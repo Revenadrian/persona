@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title id="pageTitle">Portfolio</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+        rel="stylesheet">
+
+</head>
+
+<body>
+
+    <!-- ================= HERO ================= -->
+
+    <header id="hero">
+
+        <div class="overlay"></div>
+
+        <nav>
+
+            <h2 class="logo" id="logoName"></h2>
+
+            <ul>
+
+                <li><a href="#about">About</a></li>
+
+                <li><a href="#social">Social</a></li>
+
+            </ul>
+
+        </nav>
+
+        <div class="hero-content hidden">
+
+            <img id="profileImage" alt="Profile">
+
+            <h1 id="name"></h1>
+
+            <h3 id="title"></h3>
+
+            <p id="school"></p>
+
+            <blockquote id="motto"></blockquote>
+
+            <a href="#about" class="btn">
+                Explore
+            </a>
+
+        </div>
+
+    </header>
+
+    <!-- ================= ABOUT ================= -->
+
+    <section id="about" class="hidden">
+
+        <div class="container">
+
+            <h2>About Me</h2>
+
+            <p id="description"></p>
+
+        </div>
+
+    </section>
+
+    <!-- ================= SOCIAL ================= -->
+
+    <section id="social" class="hidden">
+
+        <div class="container">
+
+            <h2>Social Media</h2>
+
+            <div class="social-grid">
+
+                <a id="instagram" target="_blank" class="card">
+
+                    <h3>Instagram</h3>
+
+                </a>
+
+                <a id="github" target="_blank" class="card">
+
+                    <h3>GitHub</h3>
+
+                </a>
+
+                <a id="linkedin" target="_blank" class="card">
+
+                    <h3>LinkedIn</h3>
+
+                </a>
+
+                <a id="tiktok" target="_blank" class="card">
+
+                    <h3>TikTok</h3>
+
+                </a>
+
+                <a id="youtube" target="_blank" class="card">
+
+                    <h3>YouTube</h3>
+
+                </a>
+
+                <a id="email" class="card">
+
+                    <h3>Email</h3>
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- ================= FOOTER ================= -->
+
+    <footer>
+
+        <p id="footerName"></p>
+
+    </footer>
+
+    <script src="data.js"></script>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
