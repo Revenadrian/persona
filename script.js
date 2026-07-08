@@ -59,7 +59,7 @@ document.getElementById("instagram").href = social.instagram;
 
 document.getElementById("github").href = social.github;
 
-document.getElementById("linkedin").href = social.linkedin;
+document.getElementById("linkedin").href = social.strava;
 
 document.getElementById("tiktok").href = social.tiktok;
 
