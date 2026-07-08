@@ -16,7 +16,7 @@ const portfolio = {
 
     school: "Senior High School",
 
-    motto: "let's be mature",
+    motto: "let's be mate",
 
     description: `Hello! My name is Reven Adrian Tan, a high school student born on April 7, 2009.
 
