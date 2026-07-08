@@ -10,7 +10,7 @@ const portfolio = {
     // HERO
     // ==========================
 
-    name: "Reven Adrian Tan",
+    name: "Reven Adrian Tn",
 
     title: "High School Student",
 
