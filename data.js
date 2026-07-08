@@ -4,7 +4,7 @@ const portfolio = {
     // WEBSITE
     // ==========================
 
-    pageTitle: "on my own again | Portfolio",
+    pageTitle: "Reven Adrian Tan | Portfolio",
 
     // ==========================
     // HERO
@@ -41,7 +41,7 @@ I am passionate about technology, web development, and continuous self-improveme
         instagram: "https://instagram.com/revenadriantan",
 
 
-        strava: "https://linkedin.com/in/USERNAME",
+        strava: "https://strava.app.link/1b4QVHGQB4b",
 
         tiktok: "https://tiktok.com/@USERNAME",
 
